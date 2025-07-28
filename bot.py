@@ -1,4 +1,6 @@
 import logging
+import os
+from config import BOT_TOKEN, ADMIN_ID
 from telegram import (
     Update,
     InlineKeyboardButton,
