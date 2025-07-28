@@ -1,1 +1,1 @@
-worker: python Bot3_tgras.py
+web: python bot.py
