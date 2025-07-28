@@ -1,0 +1,1 @@
+worker: python Bot3_tgras.py
