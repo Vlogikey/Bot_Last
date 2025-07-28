@@ -31,8 +31,6 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-BOT_TOKEN = "7983764759:AAHods3z0lDWP2rmQIE9FOZUajLG3GyNVls"
-ADMIN_ID = 7757791357  # Ваш ID телеграм
 MOSCOW_TZ = pytz.timezone('Europe/Moscow')
 
 # Состояния
